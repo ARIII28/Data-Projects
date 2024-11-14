@@ -1,1 +1,1 @@
-# Data-Projects
+ In this repository, you’ll find all the work I’ve done, exploring and analyzing various datasets to uncover interesting insights. From cleaning up messy data to creating visualizations that tell a story, each project reflects my approach to understanding the world through data.
